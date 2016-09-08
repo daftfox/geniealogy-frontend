@@ -127,6 +127,7 @@
     "es6-module-loader": "^0.17.8",
     "reflect-metadata": "^0.1.8",
     "rxjs": "5.0.0-beta.11",
+    "semantic-ui": "^2.2.4",
     "systemjs": "0.19.27",
     "zone.js": "0.6.17"
   }
